@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace UnitTestProject1
+namespace StringCalculator
 {
     /// <summary>
     ///     This is a calculator for string.
