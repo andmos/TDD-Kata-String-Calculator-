@@ -5,7 +5,7 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TestDIPS.Core.Utility;
 
-namespace UnitTestProject1
+namespace StringCalculator
 
 {
     [TestClass]
