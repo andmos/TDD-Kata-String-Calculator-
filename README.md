@@ -1,4 +1,4 @@
 TDD-Kata-String-Calculator-
 ===========================
 
-My solution to the Kata String Calculator problem. 
+My solution to Roy Osheroves kata String Calculator problem. 
